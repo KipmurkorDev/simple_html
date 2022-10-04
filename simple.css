@@ -1,0 +1,29 @@
+#thejitu {
+    text-align: center;
+    padding: 20px;
+    background-color: wheat;
+}
+
+#em_name {
+    text-align: center;
+    font-size: medium;
+    margin: 10px;
+}
+#fname {
+    text-align: center;
+    font-size: medium;
+    margin: 10px;
+}
+#num {
+    text-align: center;
+    font-size: medium;
+    margin: 10px;
+}
+#brief{
+    text-align: center;
+    font-size: medium;
+    margin: 10px;
+}
+body{
+    background-color:whitesmoke;
+}
